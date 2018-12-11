@@ -1,7 +1,7 @@
 ## MOVIES CLUB
 
 This project was made to view two sections of movies Top Rated and Recently Released with the `infinite scroll`.  
-First screen the login screen. To logged in successfully you can use the below credentials - 
+First screen is login screen. To logged in successfully you can use the below credentials - 
 
 `{
     "email": "innov@ccer.com",
@@ -19,13 +19,13 @@ In watch list you can also able to remove movie from your watch list.
 
 ## Technology stack
 
-I have used react js version 16.6.3 with axios(0.18.0), bootstrap 4, react-dom, react-redux, react-router-dom and redux for state management and routing.
+I have used ReactJs Version 16.6.3 with axios(0.18.0), bootstrap 4, react-dom, react-redux, react-router-dom and redux for state management and routing.
 
 ## Initial Step
 
 1. Clone this project - https://github.com/MOHIT143K/movies-club.git
-2. Go to - cd /movies-club
-3. Run npm install
+2. Go to - `cd /movies-club`
+3. Run `npm install`
 
 ## Available Scripts
 

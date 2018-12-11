@@ -1,4 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## MOVIES CLUB
+
+This project was made to view two sections of movies Top Rated and Recently Released with the [infinite scroll].  
+First screen the login screen. To logged in successfully you can use the below credentials - 
+
+`{
+    "email": "innov@ccer.com",
+    "password": "Inn@123"
+},
+{
+    "email": "m@k.com",
+    "password": "mohit@123"
+}`
+
+You can also search for a particular movie and can be able to add movie to your watch list. 
+There are two header links present one is to see watch list and other one is logout.
+
+In watch list you can also able to remove movie from your watch list.
+
+## Technology stack
+
+I have used react js version 16.6.3 with axios(0.18.0), bootstrap 4, react-dom, react-redux, react-router-dom and redux for state management and routing.
+
+## Initial Step
+
+1. Clone this project - https://github.com/MOHIT143K/movies-club.git
+2. Go to - cd /movies-club
+3. Run npm install
 
 ## Available Scripts
 
@@ -15,7 +42,6 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -25,20 +51,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).

@@ -1,6 +1,6 @@
 ## MOVIES CLUB
 
-This project was made to view two sections of movies Top Rated and Recently Released with the [infinite scroll].  
+This project was made to view two sections of movies Top Rated and Recently Released with the `infinite scroll`.  
 First screen the login screen. To logged in successfully you can use the below credentials - 
 
 `{
